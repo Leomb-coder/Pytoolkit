@@ -1,7 +1,13 @@
 from pathlib import Path
 from rich import print
+import typer
 
-def rename_ps(directory, prefix="", suffix="", dry=False):
+def rename_ps(
+    directory, 
+    prefix: str = typer.Option("", "--pre", "-p"), 
+    suffix: str = typer.Option("", "--suf", "-s"), 
+    dry: bool = typer.Option(False, "--dry", "-d")
+    ):
 
     """
     Rename all files in a directory using prefixes and suffixes in this pattern:
