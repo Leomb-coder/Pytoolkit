@@ -1,0 +1,23 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "pytoolkit"
+version = "0.1.0"
+description = "A collection of Python-powered CLI tools for the command line."
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+
+authors = [
+  { name = "Leonardo Modesto" }
+]
+
+dependencies = [
+    "typer>=0.12.0",
+    "rich>=13.0.0"
+]
+
+[project.scripts]
+pytoolkit = "pytoolkit.cli:app"
