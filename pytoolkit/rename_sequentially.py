@@ -1,7 +1,8 @@
 from pathlib import Path
 from rich import print
+import typer
 
-def rename_sqt(directory, new_file_name, dry=False):
+def rename_sqt(directory, new_file_name, dry: bool = typer.Option(False, "--dry")):
     
     """
     Rename all files in a directory sequentially using the pattern:
