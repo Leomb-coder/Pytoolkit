@@ -1,6 +1,7 @@
 <h1>Pytoolkit (Open-Python-CLI-Tools)</h1>
 
 ![GitHub license](https://img.shields.io/github/license/Leomb-coder/Pytoolkit)
+![Top language](https://img.shields.io/github/languages/top/Leomb-coder/Pytoolkit.svg)
 ![Commits](https://img.shields.io/github/commit-activity/t/Leomb-coder/Pytoolkit/main.svg)
 ![Open issues](https://img.shields.io/github/issues/Leomb-coder/Pytoolkit.svg)
 ![Closed issues](https://img.shields.io/github/issues-closed/Leomb-coder/Pytoolkit.svg)
