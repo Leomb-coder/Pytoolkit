@@ -1,2 +1,4 @@
-# Pytoolkit (Open-Python-CLI-Tools)
-An open-source toolkit of Python-based CLI utilities designed to simplify everyday tasks.
+#Pytoolkit (Open-Python-CLI-Tools)#
+
+A collection of open-source Python CLI utilities designed to simplify everyday tasks.
+Built with Typer, Pathlib, and Rich, Pytoolkit provides a lightweight and extensible way to manage small command-line tools in one place.
