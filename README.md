@@ -7,7 +7,7 @@
 ![Closed issues](https://img.shields.io/github/issues-closed/Leomb-coder/Pytoolkit.svg)
 ![Contributors](https://img.shields.io/github/contributors/Leomb-coder/Pytoolkit.svg)
 
-<code>Pytoolkit</code> is collection of simple Python CLI utilities designed to simplify everyday tasks.
+<code>pytoolkit-leomb</code> is collection of simple Python CLI utilities designed to simplify everyday tasks.
 Built with Typer, Pathlib, and Rich, it provides a lightweight and extensible way to manage small command-line tools in one place.<br>
 
 <img src="assets/PYTOOLKIT.svg" width="200" height="200">
