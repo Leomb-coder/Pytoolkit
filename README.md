@@ -16,8 +16,8 @@ Built with Typer, Pathlib, and Rich, it provides a lightweight and extensible wa
 Because **pytoolkit-leomb** is a CLI tool, we recommend installing it with **pipx**, as it keeps the tool isolated from your system Python while still allowing you to run pytoolkit from anywhere in your terminal.
 ### On Linux system:
 ```
-  sudo apt install pipx
-  pipx ensurepath
+sudo apt install pipx
+pipx ensurepath
 ```
 ### On Windows system:
 ```
