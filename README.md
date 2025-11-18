@@ -10,7 +10,7 @@
 <code>pytoolkit-leomb</code> is collection of simple Python CLI utilities designed to simplify everyday tasks.
 Built with Typer, Pathlib, and Rich, it provides a lightweight and extensible way to manage small command-line tools in one place.<br>
 
-<img src="assets/PYTOOLKIT.svg" width="200" height="200">
+<img src="assets/PYTOOLKIT_2.svg" width="200" height="200">
 
 ## Installation
 Because **pytoolkit-leomb** is a CLI tool, we recommend installing it with **pipx**, as it keeps the tool isolated from your system Python while still allowing you to run pytoolkit from anywhere in your terminal.
